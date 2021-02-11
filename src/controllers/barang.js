@@ -1,4 +1,4 @@
-const BarangModel = require("../models/Barang");
+const BarangModel = require("../models/barang");
 const { response } = require("../helpers/response");
 
 module.exports = {

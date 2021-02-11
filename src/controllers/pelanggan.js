@@ -1,4 +1,4 @@
-const PelangganModel = require("../models/Pelanggan");
+const PelangganModel = require("../models/pelanggan");
 const { response } = require("../helpers/response");
 
 module.exports = {
