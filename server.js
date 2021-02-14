@@ -18,3 +18,9 @@ app.use("/api/v1", routeNavigator)
 app.listen( process.env.PORT || 8000, () => {
   console.log(`Server running on PORT ${ process.env.PORT || 8000 }`);
 });
+
+// PORT=8000
+// DB_HOST=db4free.net
+// DB_USER=app_penjualan
+// DB_PASSWORD=app_penjualan
+// DB_NAME=app_penjualan
